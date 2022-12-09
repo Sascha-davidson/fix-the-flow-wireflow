@@ -1,21 +1,7 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+Er is een User Story geschreven van de interactie
+![20221209_115908 1](https://user-images.githubusercontent.com/112861160/206691494-72c682fa-ec65-4d32-87b8-dc9883086098.png)
 
-## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
-
-## User Story
-<!-- Er is een User Story geschreven van de interactie -->
-
-## Wireflow
-<!-- Toon de wireflow -->
-
- 
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+De User Flow en de interactie zijn goed weergegeven
+![20221209_114522](https://user-images.githubusercontent.com/112861160/206687654-c9cc6e60-ac0f-4458-b33a-d0dc6563cd73.jpg)
